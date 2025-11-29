@@ -1,0 +1,14 @@
+Program encountered a critical error:
+
+name 'QListWidgetItem' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\wszz_\Downloads\OpCore-Simplify-main (2)\OpCore-Simplify-main\OpCore-Simplify-GUI.py", line 1556, in <module>
+    window = OpCoreSimplifyGUI()
+  File "C:\Users\wszz_\Downloads\OpCore-Simplify-main (2)\OpCore-Simplify-main\OpCore-Simplify-GUI.py", line 1324, in __init__
+    self.init_ui()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\wszz_\Downloads\OpCore-Simplify-main (2)\OpCore-Simplify-main\OpCore-Simplify-GUI.py", line 1363, in init_ui
+    item = QListWidgetItem(text)
+           ^^^^^^^^^^^^^^^
+NameError: name 'QListWidgetItem' is not defined. Did you mean: 'QListWidget'?
