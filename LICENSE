@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2024, lzhoang2601 (Original Author)
+Copyright (c) 2024, lzhoang2801 (Original Author)
 Copyright (c) 2025, xujz66666 (Secondary Development & GUI Integration)
 All rights reserved.
 
@@ -14,7 +14,7 @@ modification, are permitted provided that the following conditions are met:
    this list of conditions and the following disclaimer in the documentation
    and/or other materials provided with the distribution.
 
-3. Neither the name of the original copyright holder (lzhoang2601), the secondary development copyright holder (xujz66666), nor the names of its
+3. Neither the name of the original copyright holder (lzhoang2801), the secondary development copyright holder (xujz66666), nor the names of its
    contributors may be used to endorse or promote products derived from
    this software without specific prior written permission from the respective holder.
 
@@ -31,5 +31,5 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ADDITIONAL USAGE RESTRICTIONS:
 1. This software is provided for non-commercial, personal, and educational use only. Commercial use of this software or its derivatives is strictly prohibited without prior written consent from all copyright holders.
-2. This software is derived from OpenCoer-Simplify (by lzhoang2601) with PyQt5 GUI integration. Users must comply with all applicable laws and regulations when using this software; the copyright holders shall not be liable for any illegal use by users.
+2. This software is derived from OpenCoer-Simplify (by lzhoang2801) with PyQt5 GUI integration. Users must comply with all applicable laws and regulations when using this software; the copyright holders shall not be liable for any illegal use by users.
 3. The software is provided "as is" without any guarantee of compliance with third-party intellectual property rights. Users shall independently verify and ensure that their use of the software does not infringe on the rights of any third party.
