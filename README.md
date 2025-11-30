@@ -10,3 +10,8 @@ Based on lzhoang2801's OpenCoer-Simplify, with PyQt5 GUI integration.
 ## Usage Notes
 - This software is only for technical research and learning, and shall not be used for any illegal or infringing activities.
 - The author does not provide any technical support for commercial use scenarios.
+
+### GUI Component Disclaimer
+The PyQt5 GUI component of this project uses open-source libraries that comply with the GPL v3 license (or PyQt5's commercial license, as applicable). Users must comply with the PyQt5 license terms when using this project:
+- For non-commercial use: comply with GPL v3 terms;
+- For commercial use: obtain a commercial license for PyQt5 (prohibited per this project's usage restrictions).
